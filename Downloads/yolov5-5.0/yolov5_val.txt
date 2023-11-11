@@ -1,0 +1,8 @@
+/home/mist/yolov5-5.0/VOCdevkit/VOC2007/JPEGImages/00027.jpg
+/home/mist/yolov5-5.0/VOCdevkit/VOC2007/JPEGImages/00033.jpg
+/home/mist/yolov5-5.0/VOCdevkit/VOC2007/JPEGImages/00020.jpg
+/home/mist/yolov5-5.0/VOCdevkit/VOC2007/JPEGImages/00022.jpg
+/home/mist/yolov5-5.0/VOCdevkit/VOC2007/JPEGImages/00029.jpg
+/home/mist/yolov5-5.0/VOCdevkit/VOC2007/JPEGImages/00013.jpg
+/home/mist/yolov5-5.0/VOCdevkit/VOC2007/JPEGImages/00000.jpg
+/home/mist/yolov5-5.0/VOCdevkit/VOC2007/JPEGImages/00004.jpg
